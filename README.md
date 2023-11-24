@@ -17,23 +17,23 @@ The Datalog X-PRO has been thought to be easily implemented and to monitor and d
 Said platform enables remote device configuration and monitoring, shows real-time dashboards with the variables of interest, presents alarms with visual indications, sends external warning messages through email, SMS, and Telegram messages or via webhooks, keeps data registers for up to two years, and tracks corrective actions and comments taken when alarms have occurred.
 
 ## Features
--Communication port, where a dual communication module with protocols for LoRaWAN™/Sigfox for the USA/EU/Latam/Australia zones or a GSM wireless transmission module can be installed.
+- Communication port, where a dual communication module with protocols for LoRaWAN™/Sigfox for the USA/EU/Latam/Australia zones or a GSM wireless transmission module can be installed.
 
--Ports for three (3) sensors.
+- Ports for three (3) sensors.
 
--Rechargeable Li-Ion battery.
+- Rechargeable Li-Ion battery.
 
--IP67 protection.
+- IP67 protection.
 
--Connected to a web platform for remote monitoring via PC, Tablet, or Smartphone.
+- Connected to a web platform for remote monitoring via PC, Tablet, or Smartphone.
 
--Historical data records on the Centriomega® Remote Monitoring Platform.
+- Historical data records on the Centriomega® Remote Monitoring Platform.
 
--Email, SMS, voicemail, Telegram, and Webhook notifications.
+- Email, SMS, voicemail, Telegram, and Webhook notifications.
 
--In LoRaWAN™ mode, it temporarily stores up to 140 messages, in case of network connection failure.
+- In LoRaWAN™ mode, it temporarily stores up to 140 messages, in case of network connection failure.
 
--Remote parameters configuration.
+- Remote parameters configuration.
 
 
 
