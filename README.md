@@ -18,21 +18,13 @@ Said platform enables remote device configuration and monitoring, shows real-tim
 
 ## Features
 - Communication port, where a dual communication module with protocols for LoRaWAN™/Sigfox for the USA/EU/Latam/Australia zones or a GSM wireless transmission module can be installed.
-
 - Ports for three (3) sensors.
-
 - Rechargeable Li-Ion battery.
-
 - IP67 protection.
-
 - Connected to a web platform for remote monitoring via PC, Tablet, or Smartphone.
-
 - Historical data records on the Centriomega® Remote Monitoring Platform.
-
 - Email, SMS, voicemail, Telegram, and Webhook notifications.
-
 - In LoRaWAN™ mode, it temporarily stores up to 140 messages, in case of network connection failure.
-
 - Remote parameters configuration.
 
 
