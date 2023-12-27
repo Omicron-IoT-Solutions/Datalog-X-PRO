@@ -2,7 +2,7 @@
 
 # Datalog-X-PRO
 ## General
-This repository contains instructions, schematics, and documentation about your Datalog X-PRO.
+This repository contains instructions, schematics, packages and examples to program your Datalog X-PRO devices for the different functions that suit your application.
 
 ## Description
 ![DSC_0042](https://github.com/Omicron-IoT-Solutions/Datalog-X-PRO/assets/141452095/28735f14-6ce6-46a1-a905-5cb43679b0e3)
