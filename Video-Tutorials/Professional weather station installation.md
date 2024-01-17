@@ -13,4 +13,4 @@ Make sure to follow our channels to learn more about the Datalog, follow our oth
 
 ### Video
 **Click below:**
-[![Watch the video](https://img.youtube.com/vi/aSVZX8T37to/maxresdefault.jpg)](https://www.youtube.com/watch?v=aSVZX8T37to)
+[![Watch the video](https://img.youtube.com/vi/cuXwA9Jfo7w/maxresdefault.jpg)](https://www.youtube.com/watch?v=cuXwA9Jfo7w)
